@@ -1,0 +1,26 @@
+{
+  "categories": [
+    { "id": "study", "name": "การเรียน", "icon": "graduationcap" },
+    { "id": "planner", "name": "แพลนเนอร์", "icon": "calendar" }
+  ],
+  "templates": [
+    { "id": "exam-revision", "name": "สรุปทบทวนก่อนสอบ", "author": "GoodNatt", "category": "study",
+      "description": "คำสำคัญ สรุปเนื้อหา คำถามที่อาจออก และจุดที่ยังไม่เข้าใจ ในหน้าเดียว",
+      "preview": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/exam-revision/preview.jpg", "file": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/exam-revision/template.jpg", "price": 0, "added": "2026-11-05" },
+    { "id": "mind-map", "name": "Mind map", "author": "GoodNatt", "category": "study",
+      "description": "หัวข้อหลักตรงกลาง แตกเป็น 6 กิ่งย่อย",
+      "preview": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/mind-map/preview.jpg", "file": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/mind-map/template.jpg", "price": 0, "added": "2026-11-05" },
+    { "id": "reading-log", "name": "บันทึกการอ่าน", "author": "GoodNatt", "category": "study",
+      "description": "ตารางจดหนังสือ บทความ และตำราที่อ่าน พร้อมให้คะแนน",
+      "preview": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/reading-log/preview.jpg", "file": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/reading-log/template.jpg", "price": 0, "added": "2026-11-05" },
+    { "id": "weekly-planner", "name": "แพลนรายสัปดาห์", "author": "GoodNatt", "category": "planner",
+      "description": "7 วันกับช่องเป้าหมายของสัปดาห์",
+      "preview": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/weekly-planner/preview.jpg", "file": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/weekly-planner/template.jpg", "price": 0, "added": "2026-11-05" },
+    { "id": "priority-todo", "name": "สิ่งที่ต้องทำ แบ่งความสำคัญ", "author": "GoodNatt", "category": "planner",
+      "description": "ด่วนและสำคัญ สำคัญไม่ด่วน และทำถ้ามีเวลา",
+      "preview": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/priority-todo/preview.jpg", "file": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/priority-todo/template.jpg", "price": 0, "added": "2026-11-05" },
+    { "id": "habit-tracker", "name": "ติดตามนิสัย 31 วัน", "author": "GoodNatt", "category": "planner",
+      "description": "14 นิสัย × 31 วัน ทำได้วันไหนระบายช่องนั้น",
+      "preview": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/habit-tracker/preview.jpg", "file": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/habit-tracker/template.jpg", "price": 0, "added": "2026-11-05" }
+  ]
+}

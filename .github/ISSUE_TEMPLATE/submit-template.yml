@@ -1,0 +1,43 @@
+name: ส่งเทมเพลต
+description: ส่งเทมเพลตให้ผู้ดูแลใส่ในร้าน GoodNatt
+title: "[เทมเพลต] "
+labels: ["template"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: ชื่อเทมเพลต
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: ชื่อผู้ทำ (ที่จะขึ้นในร้าน)
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: หมวด
+      options:
+        - การเรียน
+        - แพลนเนอร์
+        - อื่นๆ
+  - type: textarea
+    id: description
+    attributes:
+      label: คำอธิบายสั้นๆ
+  - type: textarea
+    id: file
+    attributes:
+      label: ไฟล์เทมเพลต
+      description: ลากไฟล์ PDF หรือรูป (JPG/PNG) มาวางตรงนี้ ขนาดแนะนำแนวตั้ง A4 เช่น 1536 × 2172
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: สิทธิ์
+      options:
+        - label: ฉันเป็นเจ้าของงานนี้ และยินดีให้แจกฟรีใน GoodNatt
+          required: true
