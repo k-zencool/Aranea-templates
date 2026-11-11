@@ -1,6 +1,6 @@
-# GoodNatt-templates
+# Aranea-templates
 
-ร้านเทมเพลตของแอป GoodNatt (แจกฟรี) แอปอ่านรายการจาก [`index.json`](index.json) แก้ไฟล์นี้แล้วร้านในแอปเปลี่ยนตาม ไม่ต้องลงแอปใหม่
+ร้านเทมเพลตของแอป Aranea (แจกฟรี) แอปอ่านรายการจาก [`index.json`](index.json) แก้ไฟล์นี้แล้วร้านในแอปเปลี่ยนตาม ไม่ต้องลงแอปใหม่
 
 - แอปดึงรายการตอนเปิดร้าน (เก็บไว้ใช้ตอนออฟไลน์)
 - หลังแก้อาจใช้เวลาถึงประมาณ 5 นาทีกว่าจะเห็นในแอป (GitHub เก็บแคชไฟล์ไว้)
@@ -20,8 +20,8 @@
 ```json
 { "id": "cornell-pastel", "name": "Cornell สีพาสเทล", "author": "ชื่อผู้ทำ", "category": "study",
   "description": "คำอธิบายสั้นๆ",
-  "preview": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/cornell-pastel/preview.jpg",
-  "file": "https://raw.githubusercontent.com/k-zencool/GoodNatt-templates/main/templates/cornell-pastel/template.jpg",
+  "preview": "https://raw.githubusercontent.com/k-zencool/Aranea-templates/main/templates/cornell-pastel/preview.jpg",
+  "file": "https://raw.githubusercontent.com/k-zencool/Aranea-templates/main/templates/cornell-pastel/template.jpg",
   "price": 0, "added": "2026-11-20" }
 ```
 
