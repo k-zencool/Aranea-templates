@@ -22,7 +22,7 @@
   "description": "คำอธิบายสั้นๆ",
   "preview": "https://raw.githubusercontent.com/k-zencool/Aranea-templates/main/templates/cornell-pastel/preview.jpg",
   "file": "https://raw.githubusercontent.com/k-zencool/Aranea-templates/main/templates/cornell-pastel/template.jpg",
-  "price": 0, "added": "2026-11-20" }
+  "added": "2026-11-20" }
 ```
 
 4. กด **Commit changes** (ถ้าไฟล์ JSON เขียนผิดรูปแบบ แอปจะใช้รายการเดิมต่อ เช็คก่อนได้ที่ [jsonlint.com](https://jsonlint.com))
@@ -36,7 +36,6 @@
 | `description` | คำอธิบาย |
 | `preview` | ที่อยู่รูปตัวอย่าง |
 | `file` | ที่อยู่ไฟล์เทมเพลต (`.jpg` `.png` หรือ `.pdf`) |
-| `price` | ใส่ `0` (ฟรี) ช่องนี้เผื่อไว้สำหรับอนาคต ตอนนี้แอปยังขายไม่ได้ ของที่ราคามากกว่า 0 จะขึ้นว่า "เร็วๆ นี้" |
 | `added` | วันที่ลงร้าน (ปี ค.ศ.-เดือน-วัน) ใหม่สุดขึ้นก่อน |
 
 ห้ามลงงานที่ไม่มีสิทธิ์แจก (เช่นเทมเพลตเสียเงินของคนอื่น)
